@@ -1,0 +1,14 @@
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\MainWindow.g.cs
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\App.g.cs
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9_MarkupCompile.cache
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9_MarkupCompile.lref
+C:\Users\Исп-34\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe.config
+C:\Users\Исп-34\source\repos\ПР9\ПР9\bin\Debug\ПР9.exe
+C:\Users\Исп-34\source\repos\ПР9\ПР9\bin\Debug\ПР9.pdb
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\MainWindow.baml
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.g.resources
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.Properties.Resources.resources
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.GenerateResource.cache
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.csproj.CoreCompileInputs.cache
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.exe
+C:\Users\Исп-34\source\repos\ПР9\ПР9\obj\Debug\ПР9.pdb
